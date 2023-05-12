@@ -21,6 +21,9 @@ The program will ask for the following inputs:
 
 After providing these inputs, the program will use the Banker's Algorithm to check if the system is in a safe state. It will then allow the user to request resources from a specific process.
 
+## Screenshots
+
+![alt text](https://github.com/Kareemalshiekh10/Banker-s-Algorithm/blob/e6281a9a69fd79dc88eb227367cf2d6ddb5d70a2/images/1.PNG)
 
 
 
