@@ -28,3 +28,24 @@ After providing these inputs, the program will use the Banker's Algorithm to che
 
 
 
+![alt text](https://github.com/Kareemalshiekh10/Banker-s-Algorithm/blob/bb6cbb06b40280015b9676b178ce25085262fcce/images/2.PNG)
+
+
+
+
+![alt text](https://github.com/Kareemalshiekh10/Banker-s-Algorithm/blob/bb6cbb06b40280015b9676b178ce25085262fcce/images/3.PNG)
+
+
+
+
+![alt text](https://github.com/Kareemalshiekh10/Banker-s-Algorithm/blob/bb6cbb06b40280015b9676b178ce25085262fcce/images/4.PNG)
+
+
+
+
+![alt text](https://github.com/Kareemalshiekh10/Banker-s-Algorithm/blob/bb6cbb06b40280015b9676b178ce25085262fcce/images/5.PNG)
+
+
+
+
+![alt text](https://github.com/Kareemalshiekh10/Banker-s-Algorithm/blob/bb6cbb06b40280015b9676b178ce25085262fcce/images/6.PNG)
